@@ -8,6 +8,10 @@ def app():
     st.write(
         "Welcome to your personal AI-powered language-learning assistant!"
     )
+    st.success(
+    "Start with any activity and practice a little every day "
+    "to improve your English skills!"
+)
 
     st.markdown(
         """
